@@ -9,3 +9,4 @@ version: 3
 ---
 
 Workflow:: {"type":"Select","options":{"valuesList":{"1":"Workflow_1","2":"Workflow_2","3":"Workflow_3","4":"Workflow_4"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+Priority:: {"type":"Select","options":{"valuesList":{"1":"High","2":"Medium","3":"Low"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
