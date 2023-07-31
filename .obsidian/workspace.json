@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "e55ede1fa30bcc37",
+            "id": "1a5aca0d7ecc0629",
             "type": "leaf",
             "state": {
               "type": "FileClassView__Source",
@@ -52,31 +52,19 @@
             }
           },
           {
-            "id": "0e0d24317a28bd0f",
+            "id": "e6ae8fe114cb69a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic/Topic 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d9b7f6f2294a6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic/Gas.md",
+                "file": "Author/Author Two.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/Source.md",
+                "file": "Author/Author Two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/Source.md",
+                "file": "Author/Author Two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/Source.md"
+                "file": "Author/Author Two.md"
               }
             }
           }
@@ -203,17 +191,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa308fada1281e43",
+  "active": "e6ae8fe114cb69a3",
   "lastOpenFiles": [
-    "Author",
-    "Source Status.md",
+    "Author/Khotso Mphahlele.md",
+    "Author/Author Two.md",
     "Source 1.md",
+    "Source Status.md",
+    "Class/Source.md",
+    "Topic/Topic 4.md",
     "Topic/Gas.md",
+    "Author",
     "Topic/Topic 1.md",
     "Topic/Topic 2.md",
-    "Class/Source.md",
     "Topic/Topic_5.md",
-    "Topic/Topic 4.md",
     "Topic/Topic 3.md",
     "Topic",
     "Class/Project.md",
