@@ -8,28 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2374e5150498141b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebad18c5d224651",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Source",
-              "state": {}
-            }
-          },
-          {
             "id": "90dd1c9b9f2b70e5",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -15.5,
+                  "zoom": 0
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "48f79ee209a35b2b",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -39,11 +37,12 @@
                   "y": 220,
                   "zoom": -1.4336153268331604
                 }
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +54,7 @@
       {
         "id": "7b7539231a265e65",
         "type": "tabs",
-        "dimension": 69.33497536945814,
+        "dimension": 42.04685573366215,
         "children": [
           {
             "id": "f0ffce4193c54c37",
@@ -93,9 +92,63 @@
         ]
       },
       {
+        "id": "c3cb5be99fc4e01f",
+        "type": "tabs",
+        "dimension": 25.893958076448833,
+        "children": [
+          {
+            "id": "fa308fada1281e43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b65ef002a6af53b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "619c167ff9ff8063",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7278b179e52dd723",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
         "id": "000c69df84ad21a9",
         "type": "tabs",
-        "dimension": 30.665024630541872,
+        "dimension": 32.059186189889026,
         "children": [
           {
             "id": "90fd9d926aad7fec",
@@ -120,62 +173,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa308fada1281e43",
+            "id": "d83b39ec7bc1ea97",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Profession.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b65ef002a6af53b8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Profession.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7278b179e52dd723",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "619c167ff9ff8063",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Profession.canvas"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,20 +196,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90dd1c9b9f2b70e5",
+  "active": "7278b179e52dd723",
   "lastOpenFiles": [
+    "Home.canvas",
+    "Profession.canvas",
     "Class/Video.md",
     "Class/Source.md",
     "Class/Project.md",
     "Class/Blog.md",
     "Class/Author.md",
-    "Profession.canvas",
     "Class Queries.md",
-    "Home.canvas",
     "Home.md",
-    "Author/Mbhon1 Baloyi.md",
-    "Author/Khotso Mphahlele.md",
-    "Author/Bryan Tumisho.md",
+    "Author/Author Three.md",
+    "Author/Author Two.md",
+    "Author/Author One.md",
     "Class/All.md",
     "Projects",
     "Sources/Source 1.md",
