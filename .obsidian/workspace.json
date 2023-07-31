@@ -4,43 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "7ac571a31d1a8e2a",
+        "id": "b456b10d16234d0d",
         "type": "tabs",
+        "dimension": 76.30434782608695,
         "children": [
           {
-            "id": "a38051734e67680b",
+            "id": "25f4c3e1a1a05484",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/All.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd19c55699a80c4f",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__All",
+              "type": "empty",
               "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "70745b2ad280225a",
+        "type": "split",
+        "dimension": 23.695652173913043,
+        "children": [
+          {
+            "id": "32679764dcdf2cb8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea935ea863a69b10",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Author/Author Two.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b00ee518dacfe2fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Author/Khotso Mphahlele.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cb2b9edf963898e1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Author/Member 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "5072183ec04add60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+            "id": "d9901a1f11481928",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41bf5dd9bf731bbc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Author/Member 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "c79ce813cc7d4637",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df9e2284705c362c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Author/Khotso Mphahlele.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -122,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Author/Author Two.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Author/Author Two.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Author/Author Two.md"
               }
             }
           }
@@ -171,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +246,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5072183ec04add60",
+  "active": "ea935ea863a69b10",
   "lastOpenFiles": [
+    "Author/Member 3.md",
+    "Author/Author Two.md",
+    "Author/Khotso Mphahlele.md",
+    "Untitled.md",
     "Class/All.md",
     "Class/Source.md",
-    "Untitled.md",
     "Projects",
     "Class/Author.md",
-    "Author/Khotso Mphahlele.md",
     "Sources/Source 1.md",
     "Sources/Source 2.md",
     "Sources",
-    "Author/Author Two.md",
-    "Author/Member 3.md",
     "Sources/Source Status.md",
     "Topic/Topic 4.md",
     "Topic/Gas.md",
