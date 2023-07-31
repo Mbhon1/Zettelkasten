@@ -76,6 +76,7 @@
       {
         "id": "7b7539231a265e65",
         "type": "tabs",
+        "dimension": 69.33497536945814,
         "children": [
           {
             "id": "f0ffce4193c54c37",
@@ -107,6 +108,21 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "000c69df84ad21a9",
+        "type": "tabs",
+        "dimension": 30.665024630541872,
+        "children": [
+          {
+            "id": "90fd9d926aad7fec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -174,12 +190,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +207,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6ae8fe114cb69a3",
+  "active": "f0ffce4193c54c37",
   "lastOpenFiles": [
     "Author/Khotso Mphahlele.md",
     "Author/Author Two.md",
