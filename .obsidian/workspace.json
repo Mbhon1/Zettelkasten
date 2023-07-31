@@ -40,21 +40,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e40836780f2c498c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-07-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-07-31.md",
+                "file": "Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-07-31.md",
+                "file": "Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-07-31.md"
+                "file": "Home.canvas"
               }
             }
           },
@@ -227,14 +214,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e40836780f2c498c",
+  "active": "90dd1c9b9f2b70e5",
   "lastOpenFiles": [
+    "Templates/Class Queries.md",
     "Home.canvas",
+    "Projects/Project 2.md",
+    "Projects/Project 1.md",
     "Daily Notes/2023-07-31.md",
     "Daily Notes",
     "Templates/Daily Note.md",
     "Sources/Source 1.md",
-    "Templates/Class Queries.md",
     "Author/Author Three.md",
     "Sources/Source 2.md",
     "Templates/Source Status.md",
@@ -259,8 +248,6 @@
     "Topic/Topic_5.md",
     "Topic/Topic 3.md",
     "Topic",
-    "Projects/Project 2.md",
-    "Projects/Project 1.md",
     "Class"
   ]
 }
