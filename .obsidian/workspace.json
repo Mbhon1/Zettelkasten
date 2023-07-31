@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Author/Author Two.md",
+                "file": "Source 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Author/Author Two.md",
+                "file": "Source 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Author/Author Two.md"
+                "file": "Source 1.md"
               }
             }
           }
@@ -207,11 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0ffce4193c54c37",
+  "active": "7f124c2110577f10",
   "lastOpenFiles": [
-    "Author/Khotso Mphahlele.md",
     "Author/Author Two.md",
+    "Author/Member 3.md",
     "Source 1.md",
+    "Author/Khotso Mphahlele.md",
     "Source Status.md",
     "Class/Source.md",
     "Topic/Topic 4.md",
