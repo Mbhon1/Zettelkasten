@@ -52,21 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f55c5618c968176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Source 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +227,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f55c5618c968176",
+  "active": "f0ffce4193c54c37",
   "lastOpenFiles": [
     "Home.canvas",
     "Templates/Class Queries.md",
