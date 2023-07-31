@@ -5,9 +5,9 @@
 		{"type":"group","id":"72be5159e8211417","x":-840,"y":-600,"width":1520,"height":560,"color":"4","label":"Public Relation"},
 		{"type":"group","id":"3f887de97d61d808","x":-840,"y":30,"width":1520,"height":490,"color":"6","label":"Accountant"},
 		{"type":"group","id":"9d5288bdc016e151","x":-840,"y":600,"width":1520,"height":480,"color":"2","label":"Lawyer"},
-		{"type":"file","file":"Author/Member 3.md","id":"ceaf4f78e0571c78","x":-760,"y":640,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"Author/Bryan Tumisho.md","id":"ceaf4f78e0571c78","x":-760,"y":640,"width":400,"height":400,"color":"3"},
 		{"type":"file","file":"Author/Khotso Mphahlele.md","id":"50390e17480ad7ae","x":-680,"y":-520,"width":400,"height":400,"color":"3"},
-		{"type":"file","file":"Author/Author Two.md","id":"88a4db4e8d076780","x":120,"y":80,"width":400,"height":400,"color":"3"}
+		{"type":"file","file":"Author/Mbhon1 Baloyi.md","id":"88a4db4e8d076780","x":120,"y":80,"width":400,"height":400,"color":"3"}
 	],
 	"edges":[
 		{"id":"c542a6af2bd26aff","fromNode":"72be5159e8211417","fromSide":"bottom","toNode":"88a4db4e8d076780","toSide":"left"},

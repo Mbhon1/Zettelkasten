@@ -31,14 +31,11 @@
             "id": "90dd1c9b9f2b70e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -15.5,
-                  "zoom": 0
-                }
+                "file": "Class/Video.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Queries.md",
+                "file": "Class/Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Queries.md",
+                "file": "Class/Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Queries.md"
+                "file": "Class/Video.md"
               }
             }
           }
@@ -187,19 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90dd1c9b9f2b70e5",
+  "active": "f0ffce4193c54c37",
   "lastOpenFiles": [
-    "Class Queries.md",
     "Class/Source.md",
+    "Class/Project.md",
+    "Class/Blog.md",
+    "Class/Author.md",
+    "Profession.canvas",
+    "Class Queries.md",
     "Home.canvas",
     "Home.md",
-    "Profession.canvas",
-    "Author/Author Two.md",
+    "Author/Mbhon1 Baloyi.md",
     "Author/Khotso Mphahlele.md",
-    "Author/Member 3.md",
+    "Author/Bryan Tumisho.md",
     "Class/All.md",
     "Projects",
-    "Class/Author.md",
     "Sources/Source 1.md",
     "Sources/Source 2.md",
     "Sources",
@@ -212,10 +211,8 @@
     "Topic/Topic_5.md",
     "Topic/Topic 3.md",
     "Topic",
-    "Class/Project.md",
     "Projects/Project 2.md",
     "Projects/Project 1.md",
-    "Class/Blog.md",
     "Class/Video.md",
     "Class"
   ]

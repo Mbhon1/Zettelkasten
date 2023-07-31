@@ -7,6 +7,6 @@ Rating: ⭐⭐
 ---
 - Author:: [[Khotso Mphahlele]]
 
->Co-Writer:: [[Author Two]], [[Member 3]]
+>Co-Writer:: [[Mbhon1 Baloyi]], [[Bryan Tumisho]]
 
 - Date:: [[2023-08-05]]
