@@ -1,6 +1,7 @@
 ---
 Class: Source
-Status: Reading
+Status: Processing
 Notes: 
-Topic: 
+Topic: Topic_5
+Rating: ⭐⭐
 ---
