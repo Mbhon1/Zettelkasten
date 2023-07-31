@@ -4,88 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b456b10d16234d0d",
+        "id": "6798ef5a8c17d120",
         "type": "tabs",
-        "dimension": 76.30434782608695,
         "children": [
           {
-            "id": "25f4c3e1a1a05484",
+            "id": "2374e5150498141b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 92.36196968002704,
-                  "y": 131.16556943390935,
-                  "zoom": -1.2000000000000002
-                }
+                "file": "Class/Source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ebad18c5d224651",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Source",
+              "state": {}
+            }
+          },
+          {
+            "id": "90dd1c9b9f2b70e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class Queries.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "70745b2ad280225a",
-        "type": "split",
-        "dimension": 23.695652173913043,
-        "children": [
-          {
-            "id": "32679764dcdf2cb8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ea935ea863a69b10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Author/Author Two.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "d9901a1f11481928",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "41bf5dd9bf731bbc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Author/Member 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "c79ce813cc7d4637",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df9e2284705c362c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Author/Khotso Mphahlele.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb4061ddce8a6915",
@@ -168,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Author/Khotso Mphahlele.md",
+                "file": "Class Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Author/Khotso Mphahlele.md",
+                "file": "Class Queries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Author/Khotso Mphahlele.md"
+                "file": "Class Queries.md"
               }
             }
           }
@@ -230,15 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25f4c3e1a1a05484",
+  "active": "90dd1c9b9f2b70e5",
   "lastOpenFiles": [
+    "Home.canvas",
+    "Home.md",
+    "Profession.canvas",
+    "Class Queries.md",
+    "Class/Source.md",
     "Author/Author Two.md",
     "Author/Khotso Mphahlele.md",
-    "Untitled.canvas",
     "Author/Member 3.md",
-    "Untitled.md",
     "Class/All.md",
-    "Class/Source.md",
     "Projects",
     "Class/Author.md",
     "Sources/Source 1.md",
