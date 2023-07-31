@@ -1,11 +1,12 @@
 ---
 limit: 100
-mapWithTag: false
+mapWithTag: true
 icon: store
-tagNames: 
+
 excludes: 
 extends: 
-version: 1
+version: 7
+
 ---
 
 Status:: {"type":"Select","options":{"valuesList":{},"sourceType":"ValuesListNotePath","valuesListNotePath":"Source Status.md","valuesFromDVQuery":""}}
@@ -16,3 +17,4 @@ Difficulty:: {"type":"Number","options":{"step":"1","min":"1","max":"10"}}
 Author:: {"type":"File","options":{"dvQueryString":"dv.pages('\"Author\"')"}}
 Co-Writer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('\"Auhtor\"')"},"display":"asList"}
 Date:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"true","dateShiftInterval":"2 days"}}
+

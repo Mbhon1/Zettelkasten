@@ -4,67 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "5e392c8fddd0c8d4",
+        "id": "7ac571a31d1a8e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "dd96bc69eef17b5d",
+            "id": "a38051734e67680b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/Source.md",
+                "file": "Class/All.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a5aca0d7ecc0629",
+            "id": "bd19c55699a80c4f",
             "type": "leaf",
             "state": {
-              "type": "FileClassView__Source",
+              "type": "FileClassView__All",
               "state": {}
             }
           },
           {
-            "id": "fe1210fae2b1a71b",
+            "id": "5072183ec04add60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Status.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f124c2110577f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6ae8fe114cb69a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Author/Author Two.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source 1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -207,14 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f124c2110577f10",
+  "active": "5072183ec04add60",
   "lastOpenFiles": [
+    "Class/All.md",
+    "Class/Source.md",
+    "Untitled.md",
+    "Projects",
+    "Class/Author.md",
+    "Author/Khotso Mphahlele.md",
+    "Sources/Source 1.md",
+    "Sources/Source 2.md",
+    "Sources",
     "Author/Author Two.md",
     "Author/Member 3.md",
-    "Source 1.md",
-    "Author/Khotso Mphahlele.md",
-    "Source Status.md",
-    "Class/Source.md",
+    "Sources/Source Status.md",
     "Topic/Topic 4.md",
     "Topic/Gas.md",
     "Author",
@@ -224,11 +206,10 @@
     "Topic/Topic 3.md",
     "Topic",
     "Class/Project.md",
-    "Project 2.md",
-    "Project 1.md",
+    "Projects/Project 2.md",
+    "Projects/Project 1.md",
     "Class/Blog.md",
     "Class/Video.md",
-    "Class/All.md",
     "Class"
   ]
 }
