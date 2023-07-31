@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"72be5159e8211417","x":-840,"y":-600,"width":1680,"height":560,"color":"4","type":"group","label":"Public Relation"},
+		{"id":"3f887de97d61d808","x":-840,"y":30,"width":1680,"height":490,"color":"6","type":"group","label":"Accountant"},
+		{"id":"9d5288bdc016e151","x":-840,"y":600,"width":1680,"height":480,"color":"2","type":"group","label":"Lawyer"},
+		{"id":"88a4db4e8d076780","x":-760,"y":80,"width":400,"height":400,"color":"3","type":"file","file":"Author/Author Two.md"},
+		{"id":"ceaf4f78e0571c78","x":-760,"y":640,"width":400,"height":400,"color":"3","type":"file","file":"Author/Member 3.md"},
+		{"id":"50390e17480ad7ae","x":-680,"y":-520,"width":400,"height":400,"color":"3","type":"file","file":"Author/Khotso Mphahlele.md"}
+	],
+	"edges":[]
+}

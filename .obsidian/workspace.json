@@ -12,8 +12,15 @@
             "id": "25f4c3e1a1a05484",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 92.36196968002704,
+                  "y": 131.16556943390935,
+                  "zoom": -1.2000000000000002
+                }
+              }
             }
           }
         ]
@@ -34,30 +41,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "Author/Author Two.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b00ee518dacfe2fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Author/Khotso Mphahlele.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cb2b9edf963898e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Author/Member 3.md",
                     "mode": "source",
                     "source": false
                   }
@@ -168,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb4061ddce8a6915",
@@ -184,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Author/Author Two.md",
+                "file": "Author/Khotso Mphahlele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Author/Author Two.md",
+                "file": "Author/Khotso Mphahlele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Author/Author Two.md"
+                "file": "Author/Khotso Mphahlele.md"
               }
             }
           }
@@ -246,11 +230,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea935ea863a69b10",
+  "active": "25f4c3e1a1a05484",
   "lastOpenFiles": [
-    "Author/Member 3.md",
     "Author/Author Two.md",
     "Author/Khotso Mphahlele.md",
+    "Untitled.canvas",
+    "Author/Member 3.md",
     "Untitled.md",
     "Class/All.md",
     "Class/Source.md",
