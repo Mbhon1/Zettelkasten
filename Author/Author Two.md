@@ -1,7 +1,7 @@
 ---
 Co-Worker: [[[Member 3]]]
-Profession: 
-Related Fields: "[[Author Two]]"
+Profession: Profession 1
+Related Fields: "[[Author Three]]"
 ---
 #Author
 

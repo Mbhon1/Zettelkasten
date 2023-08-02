@@ -42,31 +42,19 @@
             }
           },
           {
-            "id": "6eaf516fab3c6c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a85504605f7cf58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-08-02.md",
+                "file": "Sources/Source 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-08-02.md",
+                "file": "Sources/Source 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-08-02.md",
+                "file": "Sources/Source 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-08-02.md"
+                "file": "Sources/Source 1.md"
               }
             }
           },
@@ -190,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb4061ddce8a6915",
@@ -243,10 +230,20 @@
   },
   "active": "7a85504605f7cf58",
   "lastOpenFiles": [
-    "Class/Author.md",
+    "2023-08-05.md",
+    "Sources/Source 1.md",
+    "Author/Author One.md",
+    "Author/Author Three.md",
+    "Sources/Source 2.md",
     "Daily Notes/2023-08-02.md",
-    "Class/Project.md",
+    "Projects/Project 2.md",
+    "Home.canvas",
+    "Profession.canvas",
+    "Author/Author Two.md",
+    "Class/Author.md",
     "Class/Source.md",
+    "Class/Video.md",
+    "Class/Project.md",
     "Topic/Topic_5.md",
     "Topic/Topic 4.md",
     "Topic/Topic 3.md",
@@ -254,23 +251,14 @@
     "Topic/Topic 1.md",
     "Class/Blog.md",
     "Projects/Project 1.md",
-    "Class/Video.md",
-    "Profession.canvas",
-    "Home.canvas",
     "Class/All.md",
-    "Sources/Source 1.md",
     "Templates/Class Queries.md",
-    "Projects/Project 2.md",
     "Daily Notes/2023-07-31.md",
     "Daily Notes",
     "Templates/Daily Note.md",
-    "Author/Author Three.md",
-    "Sources/Source 2.md",
     "Templates/Source Status.md",
     "Templates",
     "Home.md",
-    "Author/Author Two.md",
-    "Author/Author One.md",
     "Projects",
     "Sources",
     "Topic/Gas.md",

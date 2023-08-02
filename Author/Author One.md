@@ -1,6 +1,6 @@
 ---
 Co-Worker: [[[Khotso Mphahlele]]]
-Profession: Lawyer
-Related Fields: "[[Khotso Mphahlele]]"
+Profession: Profession 3
+Related Fields: "[[Author Two]]"
 ---
 #Author 
