@@ -47,14 +47,70 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Class/Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea92371dd747b29",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Project",
+              "state": {}
+            }
+          },
+          {
+            "id": "92fe45e9185196c5",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__All",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3ba2ffa9a897f30",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Author",
+              "state": {}
+            }
+          },
+          {
+            "id": "1711fcbc900c4206",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Blog",
+              "state": {}
+            }
+          },
+          {
+            "id": "6eaf516fab3c6c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily Notes/2023-08-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "954b30feab008cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Source Status.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -229,21 +285,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da8adf2f22e8d6c7",
+  "active": "6eaf516fab3c6c29",
   "lastOpenFiles": [
-    "Class/Blog.md",
-    "Projects/Project 1.md",
-    "Class/Source.md",
-    "Class/Video.md",
-    "Daily Notes/2023-08-02.md",
-    "Profession.canvas",
-    "Home.canvas",
     "Class/Project.md",
-    "Class/All.md",
-    "Sources/Source 1.md",
+    "Class/Source.md",
+    "Topic/Topic_5.md",
+    "Topic/Topic 4.md",
     "Topic/Topic 3.md",
     "Topic/Topic 2.md",
     "Topic/Topic 1.md",
+    "Daily Notes/2023-08-02.md",
+    "Class/Blog.md",
+    "Projects/Project 1.md",
+    "Class/Video.md",
+    "Profession.canvas",
+    "Home.canvas",
+    "Class/All.md",
+    "Sources/Source 1.md",
     "Templates/Class Queries.md",
     "Projects/Project 2.md",
     "Daily Notes/2023-07-31.md",
@@ -259,10 +317,8 @@
     "Author/Author One.md",
     "Projects",
     "Sources",
-    "Topic/Topic 4.md",
     "Topic/Gas.md",
     "Author",
-    "Topic/Topic_5.md",
     "Topic",
     "Class"
   ]
