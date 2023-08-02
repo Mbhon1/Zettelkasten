@@ -42,55 +42,7 @@
             }
           },
           {
-            "id": "76513237f265bf31",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Blog",
-              "state": {}
-            }
-          },
-          {
             "id": "da8adf2f22e8d6c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/Source.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2d47d6fd4d74713",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Source",
-              "state": {}
-            }
-          },
-          {
-            "id": "2d9df9d136ad2ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/Video.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0f648a2135971d4",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Video",
-              "state": {}
-            }
-          },
-          {
-            "id": "9eca4013891fb8a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb4061ddce8a6915",
@@ -276,17 +229,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9eca4013891fb8a8",
+  "active": "da8adf2f22e8d6c7",
   "lastOpenFiles": [
+    "Class/Blog.md",
+    "Projects/Project 1.md",
+    "Class/Source.md",
+    "Class/Video.md",
+    "Daily Notes/2023-08-02.md",
     "Profession.canvas",
     "Home.canvas",
-    "Class/Video.md",
-    "Class/Source.md",
     "Class/Project.md",
     "Class/All.md",
-    "Class/Blog.md",
-    "Daily Notes/2023-08-02.md",
-    "Projects/Project 1.md",
     "Sources/Source 1.md",
     "Topic/Topic 3.md",
     "Topic/Topic 2.md",
