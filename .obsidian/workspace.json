@@ -40,8 +40,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0b7363e0cb90a143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Project 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13fc3ce6b90b240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-08-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.canvas",
+                "file": "Daily Notes/2023-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.canvas",
+                "file": "Daily Notes/2023-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.canvas"
+                "file": "Daily Notes/2023-08-02.md"
               }
             }
           },
@@ -201,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,39 +240,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90dd1c9b9f2b70e5",
+  "active": "b13fc3ce6b90b240",
   "lastOpenFiles": [
-    "Templates/Class Queries.md",
-    "Home.canvas",
-    "Projects/Project 2.md",
+    "Profession.canvas",
+    "Daily Notes/2023-08-02.md",
     "Projects/Project 1.md",
+    "Home.canvas",
+    "Sources/Source 1.md",
+    "Class/All.md",
+    "Class/Blog.md",
+    "Class/Video.md",
+    "Class/Source.md",
+    "Class/Project.md",
+    "Topic/Topic 3.md",
+    "Topic/Topic 2.md",
+    "Topic/Topic 1.md",
+    "Templates/Class Queries.md",
+    "Projects/Project 2.md",
     "Daily Notes/2023-07-31.md",
     "Daily Notes",
     "Templates/Daily Note.md",
-    "Sources/Source 1.md",
     "Author/Author Three.md",
     "Sources/Source 2.md",
     "Templates/Source Status.md",
     "Templates",
-    "Profession.canvas",
-    "Class/Video.md",
-    "Class/Source.md",
-    "Class/Project.md",
-    "Class/Blog.md",
     "Class/Author.md",
     "Home.md",
     "Author/Author Two.md",
     "Author/Author One.md",
-    "Class/All.md",
     "Projects",
     "Sources",
     "Topic/Topic 4.md",
     "Topic/Gas.md",
     "Author",
-    "Topic/Topic 1.md",
-    "Topic/Topic 2.md",
     "Topic/Topic_5.md",
-    "Topic/Topic 3.md",
     "Topic",
     "Class"
   ]

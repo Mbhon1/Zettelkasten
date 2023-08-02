@@ -1,12 +1,13 @@
 ---
 limit: 100
 mapWithTag: true
-icon: store
+icon: box
 
 excludes: 
 extends: 
-version: 7
+version: 8
 
+tagNames: 
 ---
 
 Status:: {"type":"Select","options":{"valuesList":{},"sourceType":"ValuesListNotePath","valuesListNotePath":"Source Status.md","valuesFromDVQuery":""}}
