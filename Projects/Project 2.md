@@ -1,6 +1,6 @@
 ---
 Class: Video
-Workflow: Workflow_3 (Record)
-Status: Done
-Priority: Medium
+Workflow: Workflow_4 (Script)
+Status: WIP
+Priority: Low
 ---

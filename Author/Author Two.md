@@ -9,6 +9,3 @@ Related Fields: "[[Author Three]]"
 Papers:: <div hidden id="Papers_values">[[Source 1]], [[Source 2]]</div>
 - [[Source 1]]
 - [[Source 2]]
-
-- [[Source 1]]
-- [[Source 2]]
