@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Source 1.md",
+                "file": "Daily Notes/2023-08-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Source 1.md",
+                "file": "Daily Notes/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Source 1.md",
+                "file": "Daily Notes/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Source 1.md"
+                "file": "Daily Notes/2023-08-03.md"
               }
             }
           },
@@ -230,8 +230,9 @@
   },
   "active": "7a85504605f7cf58",
   "lastOpenFiles": [
-    "2023-08-05.md",
     "Sources/Source 1.md",
+    "Daily Notes/2023-08-03.md",
+    "2023-08-05.md",
     "Author/Author One.md",
     "Author/Author Three.md",
     "Sources/Source 2.md",
@@ -261,7 +262,6 @@
     "Home.md",
     "Projects",
     "Sources",
-    "Topic/Gas.md",
     "Author",
     "Topic",
     "Class"
