@@ -40,9 +40,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e1d5af30e288d89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-01-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/Source.md",
+                "file": "Daily Notes/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/Source.md",
+                "file": "Daily Notes/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/Source.md"
+                "file": "Daily Notes/2024-01-09.md"
               }
             }
           },
@@ -216,9 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0ffce4193c54c37",
+  "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
     "Home.canvas",
+    "Daily Notes/2024-01-09.md",
     "Projects/Project 3.md",
     "Author/Author Three.md",
     "Author/Author Two.md",
@@ -245,7 +258,6 @@
     "Templates/Class Queries.md",
     "Daily Notes/2023-07-31.md",
     "Daily Notes",
-    "Templates/Daily Note.md",
     "Templates",
     "Projects",
     "Sources",
