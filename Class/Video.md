@@ -5,7 +5,21 @@ icon: video
 tagNames: 
 excludes: 
 extends: Project
-version: 2
+version: "2.0"
+fields:
+  - id: aGezOr
+    name: Workflow
+    options:
+      valuesList:
+        "1": Workflow_1
+        "2": Workflow_2 (Researc)
+        "3": Workflow_3 (Record)
+        "4": Workflow_4 (Script)
+      sourceType: ValuesList
+      valuesListNotePath: ""
+      valuesFromDVQuery: ""
+    type: Select
+    path: ""
 ---
 
 Workflow:: {"type":"Select","options":{"valuesList":{"1":"Workflow_1","2":"Workflow_2 (Researc)","3":"Workflow_3 (Record)","4":"Workflow_4 (Script)"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
