@@ -15,3 +15,8 @@ Start-Process “$softwarePath\OfficeSetup.exe” -ArgumentList “/configure co
 ### Install Adobe Acrobat Reader DC
 
 Start-Process “$softwarePath\AcroReadDC.exe” -ArgumentList “/sAll /rs” -Wait
+
+## Reference
+
+[Install Script](https://anakage.com/blog/how-to-automate-software-installation-with-a-script-a-step-by-step-guide/)
+[Install Script 2](https://www.techwalla.com/articles/how-to-write-a-simple-script-to-install-a-program)
