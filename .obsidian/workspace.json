@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet/502 pc replacement.md",
+                "file": "Fleet/Windows cron jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet/502 pc replacement.md",
+                "file": "Fleet/Windows cron jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet/502 pc replacement.md",
+                "file": "Fleet/Windows cron jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet/502 pc replacement.md"
+                "file": "Fleet/Windows cron jobs.md"
               }
             }
           },
@@ -230,8 +230,9 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
-    "Fleet/Install Script.md",
     "Fleet/502 pc replacement.md",
+    "Fleet/Windows cron jobs.md",
+    "Fleet/Install Script.md",
     "Daily Notes/2024-01-09.md",
     "Fleet",
     "Home.canvas",
@@ -258,7 +259,6 @@
     "Topic/Windows Script.md",
     "Class/Blog.md",
     "Class/All.md",
-    "Templates/Class Queries.md",
     "Daily Notes",
     "Templates",
     "Projects",
