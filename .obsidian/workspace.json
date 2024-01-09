@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet/502 pc replacement.md",
+                "file": "Fleet/Install Script.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet/502 pc replacement.md",
+                "file": "Fleet/Install Script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet/502 pc replacement.md",
+                "file": "Fleet/Install Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet/502 pc replacement.md"
+                "file": "Fleet/Install Script.md"
               }
             }
           },
@@ -230,8 +230,9 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-09.md",
     "Fleet/502 pc replacement.md",
+    "Fleet/Install Script.md",
+    "Daily Notes/2024-01-09.md",
     "Fleet",
     "Home.canvas",
     "Profession.canvas",
@@ -254,11 +255,10 @@
     "Topic/Topic 4.md",
     "Topic/Topic 3.md",
     "Topic/Topic 2.md",
-    "Topic/Topic 1.md",
+    "Topic/Windows Script.md",
     "Class/Blog.md",
     "Class/All.md",
     "Templates/Class Queries.md",
-    "Daily Notes/2023-07-31.md",
     "Daily Notes",
     "Templates",
     "Projects",
