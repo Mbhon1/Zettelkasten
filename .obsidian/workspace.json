@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet/Venue Checks and updates.md",
+                "file": "Daily Notes/2024-01-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet/Venue Checks and updates.md",
+                "file": "Daily Notes/2024-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet/Venue Checks and updates.md",
+                "file": "Daily Notes/2024-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet/Venue Checks and updates.md"
+                "file": "Daily Notes/2024-01-15.md"
               }
             }
           },
@@ -230,9 +230,10 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
+    "Fleet/Venue Checks and updates.md",
+    "Daily Notes/2024-01-15.md",
     "Profession.canvas",
     "Home.canvas",
-    "Fleet/Venue Checks and updates.md",
     "Fleet/502 pc replacement.md",
     "Daily Notes/2024-01-10.md",
     "Daily Notes/2024-01-09.md",
