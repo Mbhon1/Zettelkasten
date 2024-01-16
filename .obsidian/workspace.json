@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet/HPSA troubleshoot.md",
+                "file": "Daily Notes/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet/HPSA troubleshoot.md",
+                "file": "Daily Notes/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet/HPSA troubleshoot.md",
+                "file": "Daily Notes/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet/HPSA troubleshoot.md"
+                "file": "Daily Notes/2024-01-16.md"
               }
             }
           },
@@ -230,11 +230,12 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
+    "Fleet/HPSA troubleshoot.md",
+    "Daily Notes/2024-01-16.md",
     "Fleet/Extension Cord.md",
     "Images",
     "Images/WhatsApp Image 2024-01-15 at 09.22.05.jpeg",
     "Daily Notes/2024-01-15.md",
-    "Fleet/HPSA troubleshoot.md",
     "Fleet/Venue Checks and updates.md",
     "Profession.canvas",
     "Home.canvas",
