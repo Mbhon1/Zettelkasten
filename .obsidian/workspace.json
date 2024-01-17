@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-17.md",
+                "file": "Fleet/Ethernet Removal.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-17.md",
+                "file": "Fleet/Ethernet Removal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-17.md",
+                "file": "Fleet/Ethernet Removal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-17.md"
+                "file": "Fleet/Ethernet Removal.md"
               }
             }
           },
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb4061ddce8a6915",
@@ -230,18 +231,19 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
+    "Daily Notes/2024-01-17.md",
+    "Fleet/Venue Checks and updates.md",
+    "Fleet/502 pc replacement.md",
+    "Fleet/Cable Management.md",
     "Fleet/HPSA troubleshoot.md",
     "Fleet/Ethernet Removal.md",
-    "Daily Notes/2024-01-17.md",
     "Home.canvas",
     "Daily Notes/2024-01-16.md",
     "Fleet/Extension Cord.md",
     "Images",
     "Images/WhatsApp Image 2024-01-15 at 09.22.05.jpeg",
     "Daily Notes/2024-01-15.md",
-    "Fleet/Venue Checks and updates.md",
     "Profession.canvas",
-    "Fleet/502 pc replacement.md",
     "Daily Notes/2024-01-10.md",
     "Daily Notes/2024-01-09.md",
     "Fleet/Windows cron jobs.md",
@@ -260,7 +262,6 @@
     "Projects/Project 2.md",
     "Class/Author.md",
     "Class/Source.md",
-    "Class/Video.md",
     "Daily Notes",
     "Templates",
     "Projects",

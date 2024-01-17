@@ -1,1 +1,1 @@
-- [ ] ⏫ remove lan cables for the machines that use wifi
+- [ ] ⏫ remove lan cables for the machines that use wifi room 308
