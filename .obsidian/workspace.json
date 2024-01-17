@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-17.md",
+                "file": "Fleet/Ethernet Removal.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-17.md",
+                "file": "Fleet/Ethernet Removal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-17.md",
+                "file": "Fleet/Ethernet Removal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-17.md"
+                "file": "Fleet/Ethernet Removal.md"
               }
             }
           },
@@ -230,10 +230,11 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
-    "Home.canvas",
-    "Daily Notes/2024-01-17.md",
-    "Daily Notes/2024-01-16.md",
     "Fleet/HPSA troubleshoot.md",
+    "Fleet/Ethernet Removal.md",
+    "Daily Notes/2024-01-17.md",
+    "Home.canvas",
+    "Daily Notes/2024-01-16.md",
     "Fleet/Extension Cord.md",
     "Images",
     "Images/WhatsApp Image 2024-01-15 at 09.22.05.jpeg",

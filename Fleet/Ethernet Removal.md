@@ -1,0 +1,1 @@
+- [ ] ⏫ remove lan cables for the machines that use wifi
