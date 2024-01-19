@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleet/Ethernet Removal.md",
+                "file": "Daily Notes/2024-01-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleet/Ethernet Removal.md",
+                "file": "Daily Notes/2024-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleet/Ethernet Removal.md",
+                "file": "Daily Notes/2024-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleet/Ethernet Removal.md"
+                "file": "Daily Notes/2024-01-19.md"
               }
             }
           },
@@ -231,12 +231,13 @@
   },
   "active": "e1d5af30e288d89e",
   "lastOpenFiles": [
+    "Fleet/Ethernet Removal.md",
+    "Daily Notes/2024-01-19.md",
     "Daily Notes/2024-01-17.md",
     "Fleet/Venue Checks and updates.md",
     "Fleet/502 pc replacement.md",
     "Fleet/Cable Management.md",
     "Fleet/HPSA troubleshoot.md",
-    "Fleet/Ethernet Removal.md",
     "Home.canvas",
     "Daily Notes/2024-01-16.md",
     "Fleet/Extension Cord.md",
@@ -261,7 +262,6 @@
     "Daily Notes/2023-08-02.md",
     "Projects/Project 2.md",
     "Class/Author.md",
-    "Class/Source.md",
     "Daily Notes",
     "Templates",
     "Projects",
