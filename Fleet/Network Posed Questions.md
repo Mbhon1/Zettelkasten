@@ -59,6 +59,8 @@ Zone transfers become more complicated when they are completed between multiple 
 
 
 # Active Directory Tombstone
+
+When you delete an object from the Active Directory (AD) database, it’s marked as a tombstone object instead of being fully removed. By default, each tombstone object remains in the database for 180 days. Once this tombstone’s lifetime value is exceeded, the tombstone object is automatically deleted by the garbage collection process. Administrators can change the default tombstone lifetime value by using the ADSI Edit tool.
 # References
 
 [SCCM full description](https://networkinterview.com/sccm-configuration-manager/)
