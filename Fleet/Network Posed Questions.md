@@ -35,10 +35,32 @@ Think of a default gateway as an intermediate device between the local network a
 
 # Define Access Control Machine
 
+Access control is a security technique that regulates who or what can view or use resources in a computing environment. It is a fundamental concept in security that [minimizes risk](https://www.techtarget.com/searchstorage/tip/Prevent-the-storage-and-data-security-risks-of-remote-work) to the business or organization.
+
+There are two types of access control: physical and logical. Physical access control limits access to campuses, buildings, rooms and physical IT assets. Logical access control limits connections to computer networks, system files and data.
+
+To secure a facility, organizations use electronic access control systems that rely on user credentials, access card readers, auditing and reports to track employee access to restricted business locations and proprietary areas, such as data centers. Some of these systems incorporate access control panels to restrict entry to rooms and buildings, as well as alarms and lockdown capabilities, to prevent unauthorized access or operations.
 # Define a Primary DNS
+
+A primary [DNS server](https://www.cloudflare.com/learning/dns/dns-server-types/) is a server that hosts a website’s primary [zone file](https://www.cloudflare.com/learning/dns/glossary/dns-zone/). This is a text database file that contains all of the authoritative information for a domain, including its IP address, the identity of the domain administrator, and various resource records. Resource records list domain names alongside their corresponding IP addresses, and can take several different forms:
+
+- **[A record](https://www.cloudflare.com/learning/dns/dns-records/dns-a-record/):** Directs a domain to an IPv4 address
+- **AAAA record:** Directs a domain to an IPv6 address
+- **[MX record](https://www.cloudflare.com/learning/dns/dns-records/dns-mx-record/):** Assigns a mail server to a domain
+- **[NS record](https://www.cloudflare.com/learning/dns/dns-records/dns-ns-record/):** Identifies authoritative DNS servers for a domain
+
+Primary servers are also responsible for making any necessary changes to a zone’s [DNS records](https://www.cloudflare.com/learning/dns/dns-records/). Once the primary server has completed the update, it can then pass along change requests to the secondary servers.
+
+## Secondary DNS server
+
+Secondary DNS servers contain zone file copies that are read-only, meaning they cannot be modified. Instead of getting their information from local files, they receive pertinent information from a primary server in a communication process known as a zone transfer.
+
+Zone transfers become more complicated when they are completed between multiple secondary servers. If several secondary servers are in use, one may be designated as a higher-tier secondary server so that it is capable of replicating zone file copies to the remaining pool of secondary servers.
 
 # References
 
 [SCCM full description](https://networkinterview.com/sccm-configuration-manager/)
 [Windows Deployment Services](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831764(v=ws.11))
 [Default Gateway](https://www.lifewire.com/what-is-a-default-gateway-817771)
+[Access Control](https://www.techtarget.com/searchsecurity/definition/access-control)
+[Primary vs Secondary DNS](https://www.cloudflare.com/en-gb/learning/dns/glossary/primary-secondary-dns/)
