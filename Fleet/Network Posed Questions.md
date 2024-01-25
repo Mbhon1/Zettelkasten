@@ -57,6 +57,8 @@ Secondary DNS servers contain zone file copies that are read-only, meaning they 
 
 Zone transfers become more complicated when they are completed between multiple secondary servers. If several secondary servers are in use, one may be designated as a higher-tier secondary server so that it is capable of replicating zone file copies to the remaining pool of secondary servers.
 
+
+# Active Directory Tombstone
 # References
 
 [SCCM full description](https://networkinterview.com/sccm-configuration-manager/)
@@ -64,3 +66,4 @@ Zone transfers become more complicated when they are completed between multiple 
 [Default Gateway](https://www.lifewire.com/what-is-a-default-gateway-817771)
 [Access Control](https://www.techtarget.com/searchsecurity/definition/access-control)
 [Primary vs Secondary DNS](https://www.cloudflare.com/en-gb/learning/dns/glossary/primary-secondary-dns/)
+[Batch Script for Windows](https://www.howtogeek.com/263177/how-to-write-a-batch-script-on-windows/)
