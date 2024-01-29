@@ -60,3 +60,22 @@ The following are measures taken to reduce availability threats:
 - Strike
 - High-accessibility bunches
 [CIA triad](https://www.freecodecamp.org/news/the-cia-triad-confidentiality-integrity-and-availability-explained/)
+
+# Product
+Microsoft Safeguard for Cloud is a cloud local application insurance stage that finds points of concern across your cloud design, reinforces the general security stance of your current circumstance, and safeguards jobs across multi-cloud and half breed conditions from developing dangers.
+
+Incorporated with Microsoft Protector plans gives the accompanying functionalities:
+- Secure Score
+- Security Recommendations
+- Security Alerts
+- Posture Management
+    - Cloud Security Posture
+        - visibility
+        - hardening guidance
+    - Cloud workload protection
+        - Microsoft Threat Intelligence
+    - Just-In-Time VM Access
+    - Vulnerability Assessment (ex: Qualys, integrated in Defender for Servers)
+    - Asset inventory
+    - Integration with Microsoft Sentinel SIEM
+
