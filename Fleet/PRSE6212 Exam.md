@@ -41,3 +41,22 @@ Because it outlines three primary objectives that cybersecurity teams should adh
 - Keeping approved clients from making unapproved or ill-advised changes.
 - Keeping up with both the inward and outside consistency of projects and information.
 [what is integrity](https://riskxchange.co/1006895/what-is-integrity-in-cyber-security/)
+
+# Availability
+Accessibility is one of the three essential elements of safety the executives that are available in all frameworks. Accessibility is the statement that a PC framework is accessible or open by an approved client at whatever point it is required. The high order of availability of a system ensures that it will function as expected when needed. Accessibility gives working of adaptation to non-critical failure framework in the items. It additionally guarantees the reinforcement handling by remembering hot and cold locales for the debacle recuperation arranging.
+
+Data should be accessible when it is required. In order to guarantee a high level of data availability, you need to keep your software and hardware running smoothly and provide enough bandwidth. However, these actions alone are insufficient in light of the fact that there are outer powers affecting everything; The availability of data can also be harmed by:
+
+- Denial of Service (DoS) determines to activities that lock up figuring administrations such that the approved clients can't utilize the framework at whatever point required. Additionally, access is restricted to authorized users for a time period if a security office accidentally locks up an access control to a database during routine system maintenance. As an illustration of denial of service, the internet worm overloaded approximately 10% of the computer systems on the network, rendering them unresponsive to user requests.
+- Loss of Data Processing Capabilities: The deficiency of information handling abilities are for the most part brought about by the catastrophic events or human activities is maybe more normal. Possibility arranging is the action to counter such kind of misfortunes, which helps in limiting the ideal opportunity for that an information handling capacity stays inaccessible. Possibility arranging gives an elective method for handling which includes business resumption arranging, elective site handling or basically fiasco recuperation arranging in this way guarantees information accessibility.
+[Availability](https://www.geeksforgeeks.org/availability-in-information-security/)
+
+The following are measures taken to reduce availability threats:
+
+- Off-site reinforcements
+- Debacle recuperation
+- Overt repetitiveness
+- Failover
+- Strike
+- High-accessibility bunches
+[CIA triad](https://www.freecodecamp.org/news/the-cia-triad-confidentiality-integrity-and-availability-explained/)
