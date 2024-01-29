@@ -348,3 +348,49 @@ In this intricate digital landscape, cryptographic protocols serve as the unsung
 # Question 4
 
 4.1
+
+
+# Question 5
+
+5.1
+**Risk Identified: Unauthorized Access due to Email Data Breach**  
+  
+**Risk Register:**  
+  
+| Risk ID | Risk Description                                             | Likelihood (L) | Impact (I) | Risk Level (L x I) | Mitigation Measures                   |  
+|---------|-------------------------------------------------------------|-----------------|------------|---------------------|----------------------------------------|  
+| R1      | Human Error: Wrong recipient in email Cc field with sensitive attachment | Moderate        | High       | High                | 1. Enhance email security protocols   |  
+|         |                                                             |                 |            |                     | 2. Implement encryption for sensitive attachments |  
+|         |                                                             |                 |            |                     | 3. Conduct regular user training on secure email practices |  
+  
+**Risk Matrix:**  
+  
+```  
+|          | High    | Medium  | Low  |
+|----------|---------|---------|--------|  
+|High      | Red     | Red     | Orange  |
+|Medium    | Red     | Orange  | Yellow  |
+|Low       | Orange  | Yellow  | Green  |
+```  
+  
+**Explanation:**  
+  
+1. **Risk ID:** Let's call this risk "Human Error in Email Handling."  
+2. **Risk Description:** A situation where a mistake in the Cc field exposes sensitive data to an unintended recipient, potentially leading to unauthorized access.  
+3. **Likelihood (L):** Moderate (Acknowledging that occasional human errors can happen in email communications).  
+4. **Impact (I):** High (Recognizing the significant consequences of unauthorized access to sensitive corporate data).  
+5. **Risk Level (L x I):** High (Moderate Likelihood combined with High Impact).  
+6. **Mitigation Measures:** Strategies focusing on human-centric improvements, including enhancing email security, encrypting sensitive attachments, and providing regular user training on secure email practices.  
+  
+**Risk Matrix Explanation:**  
+- **Humanising the Matrix:** Think of the matrix as a traffic light for risks, where Red signals "stop and take action," Orange suggests "be cautious," Yellow implies "proceed with care," and Green means "all clear."  
+- **Visual Aid:** The colors in the matrix make it easy to visually assess and communicate the overall severity of the risk.  
+  
+**In this Scenario:**  
+- **Humanising the Risk:** This risk involves the fallibility of human actions, where an innocent mistake in email handling can have significant repercussions.  
+- **Practical Measures:** Mitigation strategies recognize the human element by enhancing security protocols, incorporating encryption as a safety net, and ensuring continuous training to empower users.  
+  
+This humanised risk register and matrix not only provide a structured analysis but also emphasize the importance of understanding and addressing human factors in cybersecurity, making it a valuable tool for risk management and mitigation planning.
+
+![[risk table.jpg]]
+
