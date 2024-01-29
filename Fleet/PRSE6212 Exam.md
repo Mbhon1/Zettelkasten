@@ -214,7 +214,7 @@ Examples of Layer 2 attacks
 [Examples of Layer 2](https://www.pearsonitcertification.com/articles/article.aspx?p=2491767)
 
 2.2
-Access Control Lists (ACLs) are a security feature used to define and manage permissions within a computer network or system. The main use of ACLs is to control access to resources, such as files, directories, or network services, by specifying which users or system processes are granted access and what operations are allowed on given resources.
+**Access Control Lists** (ACLs) are a security feature used to define and manage permissions within a computer network or system. The main use of ACLs is to control access to resources, such as files, directories, or network services, by specifying which users or system processes are granted access and what operations are allowed on given resources.
 
 In the context of securing a student record system in a tertiary college, ACLs can be implemented to regulate access to sensitive student information. For example, you could define ACL rules that restrict access to student records based on user roles. Faculty members may be granted read-only access to view student grades, while administrative staff might have full access to update and maintain records. At the same time, students themselves may be given access only to their own records.
 
@@ -235,3 +235,112 @@ By implementing ACLs in this manner, you ensure that access to student records i
 
 - Saltzer, J. H., Reed, D. P., & Clark, D. D. (1975). "End-to-End Arguments in System Design." ACM Transactions on Computer Systems (TOCS), 2(4), 277-288.
 - Rosenblum, M., & Garfinkel, T. (2005). "Virtual Machine Monitors: Current Technology and Future Trends." IEEE Computer Society.
+
+**Network Access Control** (NAC) is a security solution designed to regulate and manage access to a network based on the endpoint's compliance with security policies. The primary use of NAC is to ensure that only authorized and secure devices can connect to the network, preventing unauthorized access, potential threats, and ensuring compliance with security standards.
+
+In the context of securing a student record system in a tertiary college, NAC can be implemented to control access to the network that hosts the system. Here's an example of how NAC could be used:
+
+1. **Define Security Policies:**
+   - Establish security policies that specify the requirements for devices to connect to the network. This may include having updated antivirus software, the latest security patches, and specific configurations.
+
+2. **Deploy NAC Solution:**
+   - Implement a NAC solution at the network entry points, such as switches or wireless access points, to enforce the security policies.
+
+3. **Pre-Connection Health Checks:**
+   - Before allowing a device to connect to the network, the NAC solution performs health checks to verify compliance with the security policies. For instance, it may check for the presence of antivirus software and the latest operating system updates.
+
+4. **Quarantine Non-Compliant Devices:**
+   - If a device fails the health check, the NAC solution can place it in a quarantine network or deny access until the necessary security measures are in place.
+
+5. **Authorize Access for Authorized Devices:**
+   - Only devices that meet the security criteria are granted full access to the network, including the server hosting the student record system.
+
+By using NAC in this manner, the college can ensure that only secure and compliant devices have access to the network, reducing the risk of unauthorized access, data breaches, or the introduction of malware.
+
+**References:**
+- Tamaru, M., Koike, T., & Arakawa, Y. (2012). "Network Access Control System Using Endpoint Behavior Analysis." 2012 International Symposium on Applications and the Internet (SAINT).
+- Lioy, A., Merlo, A., Poggi, A., & Vitucci, F. (2013). "A NAC System for the Internet of Things." 2013 IFIP/IEEE International Symposium on Integrated Network Management (IM).
+
+**Data Loss Prevention** (DLP) is a comprehensive set of tools, processes, and policies designed to prevent unauthorized access, use, and transmission of sensitive data, aiming to protect valuable information from being disclosed, altered, or deleted. The main use of DLP is to safeguard sensitive data and intellectual property, ensuring that it is not inadvertently or maliciously leaked or lost.
+
+In the context of securing a student record system in a tertiary college, DLP can be employed to prevent the unauthorized disclosure of sensitive student information. Here's an example of how DLP could be used:
+
+1. **Identify Sensitive Data:**
+   - Classify sensitive data within the student record system, such as personal information, grades, and other confidential records.
+
+2. **Define DLP Policies:**
+   - Establish DLP policies specifying rules and conditions for handling sensitive data. For example, policies may prohibit the transmission of student records via unencrypted email or restrict access to certain user roles.
+
+3. **Monitoring and Enforcement:**
+   - Implement DLP solutions that monitor data in real-time. These solutions can inspect outgoing network traffic, emails, or file transfers to identify and prevent the unauthorized sharing of sensitive data.
+
+4. **Encryption and Masking:**
+   - Utilize DLP technologies to enforce encryption for sensitive data in transit and implement masking techniques to protect data at rest. This adds an additional layer of security to prevent unauthorized access.
+
+5. **Incident Response:**
+   - Configure DLP systems to generate alerts or take automated actions in response to policy violations. This could include blocking the transmission of sensitive data or notifying security personnel.
+
+By implementing DLP measures, the college can proactively mitigate the risk of data breaches, accidental disclosures, or unauthorized access to student records, ensuring compliance with privacy regulations and maintaining the confidentiality of sensitive information.
+
+**References:**
+- Rittinghouse, J. W., & Hancock, W. (2011). "Cloud Computing: Implementation, Management, and Security." CRC Press.
+- Kizza, J. M. (2015). "Guide to Computer Network Security." Springer.
+- Price, M., & Honeycutt, A. (2009). "Data Protection for Virtual Data Centers." Syngress.
+
+2.4
+Intrusion Detection Systems (IDS) employ various methodologies for monitoring and identifying potential security threats or attacks. Two prominent types of methodologies are Signature-Based Detection and Anomaly-Based Detection.
+
+1. **Signature-Based Detection:**
+   - **Methodology:** Signature-based detection relies on predefined patterns, known as signatures, that represent specific characteristics of known attacks. These signatures are derived from the analysis of past attacks and are stored in a signature database. The IDS compares network traffic or system activity against these signatures. If a match is found, the system identifies and alerts on the known attack.
+
+   - **Example:** Snort is a widely used open-source IDS that utilizes signature-based detection. Snort analyzes network traffic in real-time and compares it to a database of predefined rules or signatures. For instance, a signature may represent a common network attack pattern, such as a specific sequence of packets indicative of a known malware or a denial-of-service attack.
+
+2. **Anomaly-Based Detection:**
+   - **Methodology:** Anomaly-based detection focuses on establishing a baseline of normal behavior for a system or network and then identifying deviations from this baseline. The system monitors for unusual or anomalous patterns, behaviors, or activities that may indicate a security threat. Anomalies are often detected through statistical analysis or machine learning algorithms that learn and adapt to changes in the environment.
+
+   - **Example:** One example of anomaly-based detection is the use of machine learning algorithms in an IDS. These algorithms learn the typical patterns of network traffic, system usage, or user behavior. If the system observes deviations from the learned normal behavior, it triggers an alert. For instance, if a user suddenly attempts to access a large number of files in a short period, the anomaly-based IDS may flag this as potentially malicious behavior.
+
+**References:**
+- Northcutt, S., Novak, J., & McLachlan, D. (2002). "Network Intrusion Detection: An Analyst's Handbook." New Riders Publishing.
+- Bejtlich, R. (2004). "The Tao of Network Security Monitoring: Beyond Intrusion Detection." Addison-Wesley.
+- Roesch, M. (1999). "Snort - Lightweight Intrusion Detection for Networks." In LISA (Vol. 99, pp. 229-238).
+
+# Question 3
+
+3.1
+Symmetric and asymmetric encryption represent two fundamental approaches to securing digital communication, each with its unique characteristics and applications. Let's delve into a detailed discussion to explore the differences, focusing on the use of keys, state, and the motivation behind choosing one method over the other.  
+  
+**1. Symmetric Encryption:**  
+  - **Key Usage:** Symmetric encryption relies on a single shared key for both encryption and decryption. This shared key must be securely exchanged between the parties involved. For example, if Alice wants to send an encrypted message to Bob, both Alice and Bob need to possess and safeguard the same secret key.  
+  - **State:** Symmetric encryption is more efficient for large data sets as it operates with a single key. However, the challenge lies in securely distributing this shared key, as interception during transmission could compromise the security of the communication.  
+  
+**2. Asymmetric Encryption:**  
+  - **Key Usage:** Asymmetric encryption employs a pair of keys - a public key for encryption and a private key for decryption. The public key can be freely shared, but the private key must remain confidential. When Alice wants to send a secure message to Bob, she uses Bob's public key to encrypt it, and only Bob, with his private key, can decrypt the message.  
+  - **State:** Asymmetric encryption is often used for secure key exchange during the initial setup of communication. Its advantage lies in eliminating the need for a pre-existing relationship between parties, making it suitable for secure communication initiation.  
+  
+**Motivation for Increased Security and Protection:**  
+  - **Symmetric Encryption:** Despite its challenges in key distribution, symmetric encryption is faster and more efficient for bulk data encryption once the keys are securely shared. It becomes a preferred choice for continuous data transmission after the initial setup.  
+  - **Asymmetric Encryption:** The strength of asymmetric encryption lies in its ability to securely exchange keys without a shared secret beforehand. This makes it ideal for scenarios where parties don't have a prior relationship or need to establish a secure channel before employing symmetric encryption.  
+  
+**Balancing Security and Efficiency:**  
+  - **Hybrid Approach:** Combining both symmetric and asymmetric encryption in a hybrid approach is a common strategy. The initial key exchange and setup can leverage asymmetric encryption for its security benefits, while symmetric encryption can then be employed for the efficient transmission of large amounts of data.  
+  
+In conclusion, the choice between symmetric and asymmetric encryption hinges on the specific security requirements of a given communication scenario. By understanding the strengths and weaknesses of each method, security professionals can devise a comprehensive strategy that maximizes both security and efficiency in the realm of digital communication.
+
+3.2
+**A. Secure Sockets Layer (SSL):**  
+  - **Example in Finance:** Visualize online banking as your digital fortress, and when you log in to inspect your account, SSL acts as a guardian angel. It's like a discreet security detail ensuring that your confidential exchanges with the bank remain private. SSL creates an invisible shield around your financial data, preventing any digital snoopers from eavesdropping on your transactions or gaining access to sensitive information.  
+  
+**B. Hypertext Transport Protocol Secure (HTTPS):**  
+  - **Example in Business:** Imagine online shopping as a vibrant marketplace, and when you click "Buy Now" on that irresistible item, HTTPS serves as a trusted courier. It's the digital equivalent of a secure transaction, ensuring that your payment details are delivered safely to the seller. HTTPS acts like a diligent messenger, guarding your credit card information against any potential online pickpockets and making your digital shopping experience both seamless and secure.  
+  
+**C. Secure Shell (SSH):**  
+  - **Example in Business:** Consider SSH as your corporate teleportation device. When your IT expert needs to magically transport themselves to the company servers from a remote location, SSH acts like an exclusive access code. It's the digital key to the server room, ensuring that only authorized personnel can access and manage sensitive business data. SSH becomes the enabler of secure remote connections, allowing your IT team to maintain and troubleshoot without compromising the integrity of your company's digital assets.  
+  
+**D. Secure Real-Time Transport Protocol (SRTP):**  
+  - **Example in Finance:** Envision a virtual meeting room where financial strategies are discussed in real-time. SRTP plays the role of a vigilant bodyguard for your video and audio conversations. It ensures that the details of your financial discussions stay within the confines of the virtual conference space, protected against any digital eavesdroppers. SRTP becomes the digital bouncer, securing the confidentiality of your financial deliberations during virtual meetings and preventing any unauthorized access.  
+  
+**E. IP Security (IPsec):**  
+  - **Example in Business:** Picture a multinational corporation with offices scattered worldwide. IPsec emerges as the superhero cape for your inter-office communication. It's the digital guardian ensuring that your sensitive business plans, traveling through the vast expanse of the internet, are shielded from any potential digital villains. IPsec becomes the global protector, guaranteeing that your corporate secrets remain safe and sound, regardless of the geographic distribution of your offices.  
+  
+In this intricate digital landscape, cryptographic protocols serve as the unsung heroes, fortifying our online experiences with layers of security. From safeguarding our financial sanctuaries to securely transporting us across the digital realms of business, these protocols ensure that our interconnected lives remain both convenient and, more importantly, secure.
