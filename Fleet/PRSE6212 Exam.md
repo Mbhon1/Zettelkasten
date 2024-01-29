@@ -104,16 +104,65 @@ Incorporated with Microsoft Protector plans gives the accompanying functionaliti
 [Security Products](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/a-light-overview-of-microsoft-security-products/ba-p/3256279)
 
 1.2
-Keep passwords in a safe place offline
+#### Keep passwords in a safe place offline
 There are various ways you can store passwords to assist you with recalling that them, be it on the web or disconnected. The best way to store passwords offline is on paper if you want to keep them out of an online environment. Try to not think of them precisely in exactly the same words; provide yourself a clue or insight into help you.
 
 For instance, say your secret phrase incorporates the telephone number of a close buddy of yours from back when it was ordinary to retain home telephone numbers. You could say something like "B's number" for your clue. This ought to incite you to recall it, while being for all intents and purposes unthinkable for any other individual to figure.
 
-Password manager
-It is impossible to remember long, random, and unique passwords for each account. As opposed to record them on paper, utilize a secret phrase director, a simple to-utilize program that stores every one of your passwords. Secret phrase directors let us know when we have feeble or re-utilized passwords and large numbers of them can propose to major areas of strength for produce for us. They can also fill out login information for apps and websites as we switch between them automatically.
+#### Set up secure passwords
+Having a powerless secret phrase is a certain fire method for turning into a casualty of misrepresentation. A frail one can be handily speculated, so beginning solid with a solid secret word for everything is an unquestionable requirement.
 
-We just have to recall major areas of strength for one — the one for the secret phrase director itself. 
+On the off chance that you're truly stuck, you could utilize a secret key generator to haphazardly choose a safe secret phrase that will not get neglected. In any case, some go-to ways to set up secure passwords include:
 
-There are numerous secret phrase administrators to browse. Some are free, similar to the implicit secret word administrators in your internet browser, and some expense cash. Look for "password managers" from a reliable source like Consumer Reports, which has a selection of password managers with high ratings. Peruse surveys to look at choices and track down a trustworthy program for you.
+- Ensuring the secret key is at least 12 characters in length
+- Counting accentuation marks all through
+- Counting capitalized and lower-case letters all through
+- Not involving numbers in return for letters for example 9 rather than g
+-  Keeping away from essential console ways, as 123456 or qwerty
+[open access gov](https://www.openaccessgovernment.org/password-protection/102105/https://www.openaccessgovernment.org/password-protection/102105/)
 
-Using a password manager significantly increases our likelihood of using a strong, one-of-a-kind password for each website. Also, it's much harder for someone to steal our valuable information because of this!
+1.3
+#### Radius
+RADIUS represents Remote Authentication Dial-In User Service. It is a network protocol that gives users of network services a lot of centralized Authentication, Accounting, and Authorization. When a user requests access to network resources, the RADIUS server encrypts the user's credentials and begins the protocol's operation. After this, the accreditations are planned through the neighborhood information base, after this, assuming all checks are valid client is conceded admittance.
+
+The network access management protocol known as RADIUS is an access control protocol. It utilizes a verification server to check the character of clients and approve admittance to arrange assets. Sweep utilizes symmetric encryption to safeguard client qualifications during transmission. RADIUS is used to control who can access network resources because it is used for network access control.
+
+As far as adaptability, Range is profoundly versatile and can be utilized to oversee enormous organizations.
+
+**Features of RADIUS :**
+
+- Its server can acts as a proxy client to other Radius Servers.
+- Communication between client and server authenticated by a shared key
+- It supports PPP, PAP, and CHAP protocols for authentication purposes.
+- It runs using UDP and is a stateless protocol.
+[RADIUS vs Kerberos](https://www.geeksforgeeks.org/difference-between-kerberos-and-radius/)
+
+#### Kerberos
+Kerberos is a convention that aids network validation. This is utilized for approving clients/servers in an organization utilizing a cryptographic key. It is intended for serious areas of strength for executing while at the same time imparting to applications. MIT's implementation of the Kerberos protocol is utilized in numerous mass-produced goods and is freely available.
+
+Kerberos is a ticket-based authentication protocol for accessing network resources. By employing both symmetric and asymmetric encryption, it provides high security. Kerberos upholds single sign-on, which permits clients to get to different assets without the need to reemerge their qualifications. Kerberos is intended for network confirmation, and that implies it is utilized to check the character of clients getting to arrange assets.
+
+Kerberos may not be suitable for large networks due to its limited scalability.
+
+**Features of Kerberos :**
+
+- It prevents a variety of intrusion attempts.
+- It makes Web app authentication work across the internet.
+- Gives remarkable trust at the root and lessens full cross section situations.
+- Permits communication with other passage domains.
+[Kerberos](https://www.techtarget.com/searchsecurity/definition/Kerberos)
+
+### Benefits of Kerberos Authentication
+
+There are a few vital benefits to involving Kerberos as a validation administration.
+
+#### Access Control
+The Kerberos verification convention empowers powerful access control. Clients benefit from a solitary point for monitoring all logins and the implementation of safety strategies. 
+#### Mutual Authentication
+Kerberos verification permits administration frameworks and clients to confirm one another. Both the client and the server will be aware that the counterparts with whom they are interacting are genuine at any point in the process.
+#### Limited Ticket Lifetime
+Each ticket in Kerberos has timestamps and lifetime information, and the length of confirmation is constrained by administrators. 
+#### Reusable Authentication
+Kerberos verification is tough and reusable. Every client will just must be checked by the framework once. Then all through the lifetime of the ticket, the client can verify without the need to reemerge individual data. 
+#### Security
+Numerous mystery keys, outsider approval, and cryptography make Kerberos a protected confirmation convention. Passwords are not sent over the organizations, and mystery keys are encoded, making it challenging for aggressors to imitate clients or administrations.
