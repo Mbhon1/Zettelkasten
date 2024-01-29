@@ -194,7 +194,44 @@ Data confidentiality poses the primary threat in this category of attacks. By en
 Examples of Interception attacks:
 
 - Eavesdropping on communication. Eavesdropping is the demonstration of secretly tuning in on confidential discussions or checking information transmissions without the information on the gatherings in question.
-- Wiretapping telecommunications networks.
+- Man In The Middle (MITM).  Man-in-the-middle (MITM) attacks are a particularly sneaky type of interception in which the attacker puts themselves in the middle of two parties' conversations by intercepting their communications. In doing as such, the aggressor can snoop on, control, or even mimic either party without their insight.
 - Illicit copying of files or programs.
 - Obtaining copies of messages for later replay.
-- Packet sniffing and key logging to capture data from a computer system or network.
+- Packet sniffing and key logging to capture data from a computer system or network. Packet sniffing is a method utilized by assailants to catch and break down network traffic, permitting them to capture delicate information as it's sent over the organization. Packet sniffers can be utilized to screen all information going through an organization, including decoded data and, at times, even scrambled information on the off chance that the aggressor can unscramble it.
+[Examples](https://privacypursuits.com/internet-security/demystifying-interception-in-cyber-security-an-essential-guide/)
+
+#### Layer 2 attacks
+
+Within the same local area network, the data frame transfer between two directly connected nodes is the responsibility of the data link layer. Frames are created from the physical layer's raw bits. It could likewise perform mistake checking and amendment.
+
+The information connect layer is where pernicious entertainers can start to exploit the edge, a snippet of data that is essential for the transmission on this piece of the OSI layers. Each casing has a header, body and trailer. In the event that assailants can see or control these casings, then, at that point, they can think twice about information. This layer can likewise experience the ill effects of over-burden, debasing execution. MAC address spoofing, MAC address flooding, virtual local area network (LAN) circumvention, and address resolution protocol poisoning are the kinds of attacks you should be concerned about here.
+[Layer 2 data link](https://securityintelligence.com/articles/osi-layers-data-link-layer/)
+
+Examples of Layer 2 attacks
+- Spanning Tree Protocol (STP) Attacks. On LAN-switched networks, the Spanning Tree Protocol (STP) is utilized. Its essential capability is eliminating possible circles inside the organization. Layer 2 LANs would simply cease to function without STP because the network's loops would flood the switches with traffic. The upgraded activity and design of STP guarantees that the LAN stays steady and that traffic follows the most streamlined way through the organization. This attack has the potential to significantly impact the usability and security of the traffic flowing through the network if an attacker inserts a new STP device onto the network and attempts to alter STP's operation.
+- Address Resolution Protocol (ARP) Attacks. Every network device that connects to an Ethernet network uses the Address Resolution Protocol (ARP). Gadgets use ARP to find the Layer 2 Ethernet address (Macintosh) for an objective gadget, utilizing just the objective gadget's realized IP address. Because devices are told to trust the answers they receive, ARP itself is inherently insecure. Therefore, if device C replies in place of device B to a request for the MAC address of device B, device A will forward all traffic destined for device B to device C. If device C was attempting a transparent attack, it would record the data from the traffic while forwarding the traffic to device B; A man-in-the-middle (MITM) attack is the term for this.
+- Media Access Control (MAC) Spoofing. A Media Access Control (MAC) spoofing attack occurs when one network device uses another's MAC address. The objective of the assailant is to divert all of the traffic for the designated gadget to the going after gadget. In the event that you contemplate a phone organization, this assault is what could be compared to somebody assuming control over your telephone number and having future calls rerouted to them. This rerouting could be utilized to mask one gadget as one more for various purposes, including to go about as that gadget (potentially a server), or to play out a disavowal of-administration assault on that gadget.
+[Examples of Layer 2](https://www.pearsonitcertification.com/articles/article.aspx?p=2491767)
+
+2.2
+Access Control Lists (ACLs) are a security feature used to define and manage permissions within a computer network or system. The main use of ACLs is to control access to resources, such as files, directories, or network services, by specifying which users or system processes are granted access and what operations are allowed on given resources.
+
+In the context of securing a student record system in a tertiary college, ACLs can be implemented to regulate access to sensitive student information. For example, you could define ACL rules that restrict access to student records based on user roles. Faculty members may be granted read-only access to view student grades, while administrative staff might have full access to update and maintain records. At the same time, students themselves may be given access only to their own records.
+
+Here's a simplified example of how ACLs could be used to secure a student record system:
+
+1. **Define Roles:**
+    - Create roles such as "Faculty," "Administrator," and "Student."
+2. **Create ACL Rules:**
+    - Grant "Read" access to the "Faculty" role for viewing student records.
+    - Grant "Read/Write" access to the "Administrator" role for updating and managing records.
+    - Grant "Read" access to the "Student" role for viewing their own records.
+3. **Apply ACLs:**
+    - Implement ACLs on the database or file system housing the student records.
+
+By implementing ACLs in this manner, you ensure that access to student records is controlled based on predefined roles, reducing the risk of unauthorized access or tampering with sensitive information.
+
+**References:**
+
+- Saltzer, J. H., Reed, D. P., & Clark, D. D. (1975). "End-to-End Arguments in System Design." ACM Transactions on Computer Systems (TOCS), 2(4), 277-288.
+- Rosenblum, M., & Garfinkel, T. (2005). "Virtual Machine Monitors: Current Technology and Future Trends." IEEE Computer Society.
