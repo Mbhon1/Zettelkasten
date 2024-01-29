@@ -137,6 +137,18 @@ As far as adaptability, Range is profoundly versatile and can be utilized to ove
 - It runs using UDP and is a stateless protocol.
 [RADIUS vs Kerberos](https://www.geeksforgeeks.org/difference-between-kerberos-and-radius/)
 
+### Benefits of RADIUS
+
+#### Logging and Auditing
+RADIUS gives logging and reviewing highlights. This implies that you can follow who is getting to your framework and when. Furthermore, you can utilize these logs to recognize any dubious action. The fact that RADIUS can be used to meet compliance requirements is one of its many advantages. Businesses like medical care and fund frequently have severe consistence prerequisites. You can quickly meet these requirements with RADIUS' assistance.
+
+#### Helps prevent DoS attacks
+The increasingly prevalent "Denial of Service" (DoS) attacks can be aided by RADIUS. DoS assaults are a sort of assault where the assailant attempts to make a framework inaccessible by flooding it with demands. Sweep can assist with forestalling these kinds of assaults by rate restricting the quantity of solicitations every client can make. An attacker will find it much more difficult to disable a system as a result of this.
+
+### Unique Credentials for each user
+With Sweep, every client has their own novel qualifications. This means that the credentials of other users won't be affected if one user's credentials are stolen. This also makes it harder for someone to get into your system without your permission. RADIUS is excellent for remote businesses and those with remote employees for these reasons.
+[benefits for RADIUS](https://www.motocms.com/blog/en/benefits-of-radius-based-authentication/)
+
 #### Kerberos
 Kerberos is a convention that aids network validation. This is utilized for approving clients/servers in an organization utilizing a cryptographic key. It is intended for serious areas of strength for executing while at the same time imparting to applications. MIT's implementation of the Kerberos protocol is utilized in numerous mass-produced goods and is freely available.
 
@@ -153,9 +165,7 @@ Kerberos may not be suitable for large networks due to its limited scalability.
 [Kerberos](https://www.techtarget.com/searchsecurity/definition/Kerberos)
 
 ### Benefits of Kerberos Authentication
-
 There are a few vital benefits to involving Kerberos as a validation administration.
-
 #### Access Control
 The Kerberos verification convention empowers powerful access control. Clients benefit from a solitary point for monitoring all logins and the implementation of safety strategies. 
 #### Mutual Authentication
@@ -166,3 +176,25 @@ Each ticket in Kerberos has timestamps and lifetime information, and the length 
 Kerberos verification is tough and reusable. Every client will just must be checked by the framework once. Then all through the lifetime of the ticket, the client can verify without the need to reemerge individual data. 
 #### Security
 Numerous mystery keys, outsider approval, and cryptography make Kerberos a protected confirmation convention. Passwords are not sent over the organizations, and mystery keys are encoded, making it challenging for aggressors to imitate clients or administrations.
+[benefits of kerberos](https://www.fortinet.com/resources/cyberglossary/kerberos-authentication)
+
+# Question 2
+
+2.1
+### Interception
+When two connected entities exchange a message over the Internet, data communication typically takes place:
+
+On account of a capture assault, a pernicious entertainer can get to private or classified data with no real approval. One common type of attack in this category is eavesdropping. In particular, a gatecrasher can allude to a few procedures, for example, bundle sniffing and man-in-the-middle (MITM).
+
+They usually try to disrupt data exchanges on the network or get important information like credit card numbers and passwords. When really executed, recognizing hints of the attack can be exceptionally hard:
+
+Data confidentiality poses the primary threat in this category of attacks. By encrypting our communications, avoiding unreliable Wi-Fi networks, and regularly updating our software, we can reduce its impact.
+[Interception](https://www.baeldung.com/cs/security-interruption-interception-modification-fabrication)
+
+Examples of Interception attacks:
+
+- Eavesdropping on communication. Eavesdropping is the demonstration of secretly tuning in on confidential discussions or checking information transmissions without the information on the gatherings in question.
+- Wiretapping telecommunications networks.
+- Illicit copying of files or programs.
+- Obtaining copies of messages for later replay.
+- Packet sniffing and key logging to capture data from a computer system or network.
