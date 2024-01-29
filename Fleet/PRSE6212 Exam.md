@@ -344,3 +344,7 @@ In conclusion, the choice between symmetric and asymmetric encryption hinges on 
   - **Example in Business:** Picture a multinational corporation with offices scattered worldwide. IPsec emerges as the superhero cape for your inter-office communication. It's the digital guardian ensuring that your sensitive business plans, traveling through the vast expanse of the internet, are shielded from any potential digital villains. IPsec becomes the global protector, guaranteeing that your corporate secrets remain safe and sound, regardless of the geographic distribution of your offices.  
   
 In this intricate digital landscape, cryptographic protocols serve as the unsung heroes, fortifying our online experiences with layers of security. From safeguarding our financial sanctuaries to securely transporting us across the digital realms of business, these protocols ensure that our interconnected lives remain both convenient and, more importantly, secure.
+
+# Question 4
+
+4.1
